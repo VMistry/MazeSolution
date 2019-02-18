@@ -3,7 +3,7 @@ Viren's Maze solution
 Introduction
 For this problems, I have used Eclipse to create and run the source code found within this folder. 
 The program was written in Java and was able to read and solve all input files provided, as well as an extra titled "small_wrap_input2.txt".
-This software used the Trémaux's algorithm which uses a series of marking, allowing it to find its way from start to end. 
+This program uses the TrÃ©maux's algorithm which uses a series of marking, allowing it to find its way from start to end. 
 
 Method
 1. To run this program, you must first open the program through an IDE, such as "Eclipse" or "NetBeans".
